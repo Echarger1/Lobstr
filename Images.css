@@ -1,0 +1,14 @@
+﻿.jumbotron{
+    background-image: url(800px-Blue-lobster.jpg);
+    background-size: cover;
+    background-position: center center;
+    color: red;
+}
+
+.feature {
+    text-align: center;
+}
+.feature .glyphicon{
+    font-size: 600%;
+    color: red;
+}
